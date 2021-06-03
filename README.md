@@ -17,14 +17,14 @@ The gross expected income of a majority of Rossman's stores found was: at the Be
   
   
 
-<h1> 3) Machine Learning Performance </h1>
+<h1> 4) Machine Learning Performance </h1>
 The performance of every trained model, after cross-validation. The columns correspond to the metrics: Mean Absolute Error, Mean Absolute Percentage Error and Root Mean Squared Error.
 
 
 ![image](https://user-images.githubusercontent.com/81034654/120242497-5e8ba080-c23b-11eb-93ea-4c14cd77487b.png)
 
 
-<h1> 4) Conclusion </h1>
+<h1> 5) Conclusion </h1>
 
   As we can see, these models have a wide RMSE indicating that this phenomenon studied cannot be modeled by using linear machine learning models. However, the sales forecast and the generated insights provide the CEO with valuable tools to decide the amount of budget that is going to be dedicated to the restoration of each store.
   
