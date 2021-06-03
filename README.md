@@ -1,7 +1,7 @@
 ![Rossmann](https://user-images.githubusercontent.com/81034654/120236058-cb01a200-c231-11eb-8c27-48e46658765a.jpg)
 
 <h1> 1) Business problem </h1>
-The stores of the Rossmann drugstore chain need to be restored and the CEO needs to decide how much is going to be dedicated to the restoration of each one. The Chief Financial Officer (CFO) requested forecast models for the Analytics team to support his decision that how much budget in each store needs to be allocated.
+The stores of the Rossmann drugstore chain need to be restored and the CEO needs to decide how much is going to be dedicated to the restoration of each one. The Chief Financial Officer (CFO) required forecast models for the Analytics team to support his decision that how much budget in each store needs to be allocated.
 
 
 <h1> 2) Business results </h1>
