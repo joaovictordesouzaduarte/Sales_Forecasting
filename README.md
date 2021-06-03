@@ -10,7 +10,7 @@ The gross expected income of a majority of Rossman's stores found was: at the Be
 ![image](https://user-images.githubusercontent.com/81034654/120239574-f639c080-c234-11eb-964d-1e30c76c20fa.png)
 
 <h1> 3) Business Hypothesis </h1>
-  Through this project, a vary of hypothesis was come up by me. All of these hypotheses are listed in step 02 called "Feature Engineering". New features were created to make     possible a more thorough analysis.
+
 
   
   ![image](https://user-images.githubusercontent.com/81034654/120240202-5f6e0380-c236-11eb-904d-2f636f95dad5.png)
